@@ -1,5 +1,5 @@
 # CareLinkCSharpQ1
-Question 1 for C# interview
+C# interview question
 
 # Problem:
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
